@@ -3,7 +3,7 @@
 [Link : Calculator](https://react-calculator-for-fcc.netlify.app/)
 
  <div align="center">
-   <img src="/screencapture.png" width="500" height="500"/> 
+   <img src="/screencapture.jpg" width="500" height="500"/> 
  </div>
 
 ## React + Vite
